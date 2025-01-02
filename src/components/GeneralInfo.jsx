@@ -67,6 +67,7 @@ const GeneralInfo = ({ updateGeneralInfo, defaultGeneralInfo }) => {
   );
 };
 
+
 export default GeneralInfo;
 
 
